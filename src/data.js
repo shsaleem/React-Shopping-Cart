@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Samsung Galaxy S7",
-    price: 598.99,
+    price: 598.98,
     img: "https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368215/phone-2_ohtt5s.png",
     amount: 1,
   },
